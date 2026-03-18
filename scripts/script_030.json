@@ -6,8 +6,8 @@
     "data_size": 186,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "...And[SP]that's[SP]that![SP]We're[SP]waiting[SP]for[SP]more\nletters[SP]from[SP]YOU,[SP]the[SP]listeners!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Massa",
+    "texte_fr": "Et donc voilà ! Nous attendons plus\nde lettres venant de VOUS, chers auditeurs!"
   },
   {
     "id": 1,
@@ -16,8 +16,8 @@
     "data_size": 270,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "By[SP]the[SP]way,[SP]Ginji-san,[SP]you[SP]said[SP]you[SP]had[SP]an\nimportant[SP]announcement[SP]to[SP]make[SP]during[SP]our\nshow[SP]today.[SP]You[SP]don't[SP]mean...?[1205][001E]",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Par ailleurs, Ginji-san, Tu disais que tu avais\nune annonce importante à faire durant notre\nshow, aujourd'hui.Tu ne veux quand même pas dire...[1205][001E]"
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "data_size": 234,
     "nom_orig": "???",
     "texte_orig": "Ahahah...[1205][001E][SP]You've[SP]got[SP]me[SP]there.[SP]Yeah,[SP]I'd[SP]say\nit's[SP]about[SP]time.[SP]Looks[SP]like[SP]our[SP]last[SP]guest\nhas[SP]just[SP]arrived.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "???",
+    "texte_fr": "Ahahah... Tu m'as percé à jour. Oui\nil était temps. On dirait que notre dernier invité\nvient d'arriver."
   },
   {
     "id": 3,
@@ -36,8 +36,8 @@
     "data_size": 256,
     "nom_orig": "Ginji",
     "texte_orig": "It's[SP]time[SP]I[SP]gave[SP]the[SP]people[SP]what[SP]they[SP]want\nand[SP]announced[SP]the[SP]third[SP]member[SP]of[SP]Muses![1205][001E]\nLisa[SP]Silverman![SP]There[SP]you[SP]are!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginji",
+    "texte_fr": "Il est temps de donner au public ce qu'ils veulent\net d'annoncer le troisième membre des Muses ![1205][001E]\nLisa Silverman, c'est à toi !"
   },
   {
     "id": 4,
@@ -46,8 +46,8 @@
     "data_size": 122,
     "nom_orig": "Ginko",
     "texte_orig": "Oh,[SP]geez![SP]What[SP]should[SP]I[SP]do,[SP][U+1113]!?\nKaumena![SP]Help[SP]me!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Oh, bon sang! Qu'est-ce que je devrais faire, [U+1113]!?\nKaumena! Aide-moi!"
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "data_size": 262,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]don't[SP]think[SP]you[SP]have[SP]a[SP]choice![SP]Time[SP]to\nbite[SP]the[SP]bullet[SP]and[SP]go[SP]do[SP]this![SP]Try[SP]and\npry[SP]out[SP]as[SP]much[SP]information[SP]as[SP]you[SP]can!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Je ne pense pas que tu aies le choix ! Il faut\nsaisir ta chance et foncer ! Essaye\nde récolter le plus d'informations possibles !"
   },
   {
     "id": 6,
@@ -66,8 +66,8 @@
     "data_size": 142,
     "nom_orig": "Mami[SP]&[SP]Miho",
     "texte_orig": "For[SP]everyone[SP]tuning[SP]in[SP]now,[SP]Muses[SP]is[SP]now\na[SP]full[SP]trio!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Mami & Miho",
+    "texte_fr": "Pour tout ceux qui nous écoutent, Muses est désormais\nun vrai trio!"
   },
   {
     "id": 7,
@@ -76,8 +76,8 @@
     "data_size": 196,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "Woah![SP]Now[SP]that's[SP]what[SP]I[SP]call[SP]shock[SP]radio!\nWay[SP]to[SP]go,[SP]Ginji,[SP]you[SP]stylish[SP]bastard!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Wouah ! Ça c'est ce que j'appelle un scoop !\nT'as bien joué ton coup Ginji, espèce de salaud!"
   },
   {
     "id": 8,
@@ -86,8 +86,8 @@
     "data_size": 168,
     "nom_orig": "Maya",
     "texte_orig": "Hey,[SP][U+1113]-kun.[1205][001E][SP]Do[SP]you[SP]detect[SP]a[SP]faint\nPersona[SP]resonance[SP]in[SP]that[SP]Sasaki[SP]guy?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Hey, [U+1113]-kun. Est-ce que tu ressens\nla présence d'une Persona chez ce Sasaki ?"
   },
   {
     "id": 9,
@@ -96,8 +96,8 @@
     "data_size": 168,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]wonder[SP]if[SP]he's[SP]one[SP]of[SP]the[SP]Masked[SP]Circle...\nIf[SP]he[SP]is,[SP]Lisa's[SP]in[SP]trouble.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Je me demande s'il fait parti du Cercle Masqué...\nSi c'est le cas, Lisa est en danger."
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "data_size": 262,
     "nom_orig": "Maya",
     "texte_orig": "But[SP]if[SP]we[SP]go[SP]along[SP]with[SP]the[SP]plan,[SP]we[SP]might\nget[SP]some[SP]juicy[SP]details[SP]on[SP]the[SP]Masked[SP]Circle.[1205][001E]\nWell,[SP]it's[SP]all[SP]up[SP]to[SP]Lisa[SP]now.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": ""Maya,
+    "texte_fr": "Mais si on s'en tient au plan,\non pourrait obtenir des informations essentielles sur le Cercle Masqué.\nC'est à Lisa de jouer, à présent. "
   },
   {
     "id": 11,
@@ -116,8 +116,8 @@
     "data_size": 256,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "Well[SP]then,[SP]let's[SP]move[SP]on[SP]to[SP]the[SP]burning\nquestion[SP]on[SP]all[SP]our[SP]male[SP]listeners'[SP]minds:\nLisa-chan,[SP]are[SP]you[SP]single!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Bien, et maintenant passons à la question\nqui intéresse tous nos auditeurs masculins :\nLisa-chan, est-ce que tu es célibataire ?"
   },
   {
     "id": 12,
@@ -126,8 +126,8 @@
     "data_size": 152,
     "nom_orig": "Ginko",
     "texte_orig": "Ng[SP]Hai![SP]There[SP]is[SP]a[SP]certain[SP]gentleman!\nActually,[SP]he's[SP]here[SP]today!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Hai ! J'ai bien quelqu'un en tête !\nUn certain gentleman, juste à côté de moi !"
   },
   {
     "id": 13,
@@ -136,8 +136,8 @@
     "data_size": 242,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "Woah![SP]Lisa-chan[SP]drops[SP]a[SP]second[SP]bombshell\non[SP]our[SP]audience![SP]Who,[SP]may[SP]we[SP]ask,[SP]is[SP]this\nboyfriend[SP]of[SP]yours!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Woah ! Lisa-chan nous lâche une deuxième bombe en direct ! Et qui, si je puis me permettre, est\ncet heureux élu !?"
   },
   {
     "id": 14,
@@ -146,8 +146,8 @@
     "data_size": 136,
     "nom_orig": "Ginko",
     "texte_orig": "He's[SP]over[SP]there...[SP]The[SP]tall,[SP]cool[SP]guy!\nEeeee,[SP]I[SP]said[SP]it!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Il est juste là... celui qui est grand et trop cool !\nEeee, je l'ai enfin dit !"
   },
   {
     "id": 15,
@@ -156,8 +156,8 @@
     "data_size": 40,
     "nom_orig": "Eikichi",
     "texte_orig": "...Me?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "...Moi ?"
   },
   {
     "id": 16,
@@ -166,8 +166,8 @@
     "data_size": 212,
     "nom_orig": "Eikichi",
     "texte_orig": "Awww,[SP]you[SP]should've[SP]said[SP]so[SP]before...[1205][001E]\nBaby[SP]be[SP]mine![SP]I'm[SP]gonna[SP]give[SP]you[SP]a[SP]whole\nlotta[SP]love!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Eikichi",
+    "texte_fr": "Owww, tu aurais dû le dire plus tôt...[1205][001E]\nOh, ma chérie, je vais te couvrir d'amour !"
   },
   {
     "id": 17,
@@ -176,8 +176,8 @@
     "data_size": 108,
     "nom_orig": "Ginko",
     "texte_orig": "Why...[1205][001E][SP]on[SP]Earth[SP]would[SP]I[SP]have[SP]meant[SP]you!?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "A quel moment...[1205][001E]Est-ce que tu crois que j'aurais pu penser à toi !?"
   },
   {
     "id": 18,
@@ -186,8 +186,8 @@
     "data_size": 164,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "Whoa,[SP]whoa![SP]Calm[SP]down,[SP]okay,[SP]Lisa-chan?\nWe're[SP]live,[SP]after[SP]all...",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Whoa, whoa ! Du calme, ok, Lisa-chan?\nOn est encore en direct, je rappelle..."
   },
   {
     "id": 19,
@@ -196,8 +196,8 @@
     "data_size": 118,
     "nom_orig": "Ginko",
     "texte_orig": "My[SP]Chinyan[SP]isn't[SP]a[SP]twisted[SP]narcissist\nlike[SP]him!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "Mon Chinyan ne peut pas être un tordu\nnarcissique comme ce gars !"
   },
   {
     "id": 20,
@@ -206,8 +206,8 @@
     "data_size": 234,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "Uhhh,[SP]okay![SP]Well[SP]then,[SP]Ginji-san?[SP]Lay[SP]it[SP]on\nus[SP]about[SP]the[SP]Muses'[SP]debut[SP]song[SP]we're[SP]all\ndying[SP]to[SP]hear!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Euh, ok, ok! ...Bon, du coup, Ginji-san? Et si tu nous\nparlait un peu de cette nouvelle musique des Muses qu'on meurt tous d'envie\n d'entendre ?"
   },
   {
     "id": 21,
@@ -216,8 +216,8 @@
     "data_size": 254,
     "nom_orig": "Ginji",
     "texte_orig": "It's[SP]based[SP]on[SP]the[SP][1432][NULL][NULL][0014]Joker[SP]Game[1432][NULL][NULL][0014][SP]that's\ncatching[SP]on[SP]with[SP]the[SP]kids[SP]today.\nIt's[SP]called,[SP]naturally,[SP][1432][NULL][NULL][0014]Joker[1432][NULL][NULL][0014]!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginji",
+    "texte_fr": "Ce morceau est basé sur le [1432][NULL][NULL][0014]Jeu du Joker[1432][NULL][NULL][0014], c'est\nle jeu à la mode chez les jeunes aujourd'hui.\n Le titre s'appelle donc, naturellement, [1432][NULL][NULL][0014]Joker[1432][NULL][NULL][0014]!"
   },
   {
     "id": 22,
@@ -226,8 +226,8 @@
     "data_size": 42,
     "nom_orig": "Maya",
     "texte_orig": "I[SP]knew[SP]it!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Maya",
+    "texte_fr": "Je le savais !"
   },
   {
     "id": 23,
@@ -236,8 +236,8 @@
     "data_size": 210,
     "nom_orig": "Ginji",
     "texte_orig": "And[SP]since[SP]Lisa-kun's[SP]so[SP]fluent[SP]in[SP]English,\nI've[SP]prepared[SP]an[SP]entire[SP]English[SP]solo[SP]part\nfor[SP]her.",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginji",
+    "texte_fr": "Et puisque Lisa-kun est si douée en anglais,\n nous avons préparé tout un passage\nen solo juste pour elle."
   },
   {
     "id": 24,
@@ -246,8 +246,8 @@
     "data_size": 240,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "I[SP]see...![SP]Alright[SP]then,[SP]Lisa-chan.[SP]Got[SP]a\nmessage[SP]in[SP]English[SP]for[SP]all[SP]your[SP]adoring\nfans[SP]out[SP]there[SP]today?",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Je vois... Ok, super, Lisa-chan. Tu as\n un message en anglais que tu voudrais faire passer\n à nos fans adorés qui t'écoutent en ce moment ?"
   },
   {
     "id": 25,
@@ -256,8 +256,8 @@
     "data_size": 266,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "...Well,[SP]I[SP]had[SP]high[SP]hopes,[SP]but[SP]that's[SP]all\nthe[SP]time[SP]we[SP]have[SP]today![SP]We'll[SP]be[SP]looking\nforward[SP]to[SP]your[SP]part,[SP]Lisa-chan!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "...Ok. J'avais de grands espoirs, mais\nc'est tout pour aujourd'hui ! On a hâte\n d'entendre ta prestation, Lisa-chan !"
   },
   {
     "id": 26,
@@ -266,8 +266,9 @@
     "data_size": 356,
     "nom_orig": "Ginko",
     "texte_orig": "[1432][NULL][NULL][0014]O...[SP]Oh-kay![SP]Y-Yeees![1432][NULL][NULL][0014]\n[E1][E2]\n[E3][E4][NULL][NULL]\"Meteor[SP]Masa\nMuses,[SP]ladies[SP]and[SP]gentlemen,[SP]kicking[SP]off\ntheir[SP]career[SP]with[SP]a[SP]mini-concert[SP]today[SP]at\nthe[SP]outdoor[SP]concert[SP]hall[SP]in[SP]Aoba!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Ginko",
+    "texte_fr": "[1432][NULL][NULL][0014]O...Oh-kay ! O-oouui ![1432][NULL][NULL][0014]\n[E1][E2]\n[E3][E4][NULL][NULL]\"Meteor Masa\nMuses, mesdames et messieurs,[vont propulser\n avec un mini-concert aujourd'hui !\nUn concert en plei air à Aoba!
+ !"
   },
   {
     "id": 27,
@@ -276,7 +277,7 @@
     "data_size": 262,
     "nom_orig": "Meteor[SP]Masa",
     "texte_orig": "And[SP]that's[SP]a[SP]wrap[SP]for[SP]today's[SP]edition[SP]of\nMeteor[SP]Masa[SP]To[SP]The[SP]Max![SP]Tune[SP]in[SP]next[SP]week\nfor[SP]more[SP]of[SP]what[SP]you[SP]looooove!",
-    "nom_fr": "",
-    "texte_fr": ""
+    "nom_fr": "Meteor Masa",
+    "texte_fr": "Et voilà qui conclue notre émission du jour de\nMeteor Masa ! On se dit à la semaine prochaine\n pour un max de contenu de ce que vous aimeeeeez!"
   }
 ]
